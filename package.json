@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "name": "flutter-agency-website",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  }
+}
